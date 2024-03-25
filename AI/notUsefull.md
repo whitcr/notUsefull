@@ -132,3 +132,9 @@ Hello History  (https://play.google.com/store/apps/details?id=com.hello.history&
 Cool Gift Ideas (https://www.coolgiftideas.io/) — опишите человека и сервис подберёт под него подарок.
 Endel  (https://endel.io/)— генератор ИИ-музыки, поможет расслабиться и выспаться. 
 PlaylistAI  (https://apps.apple.com/us/app/ai-playlist-maker-playlistai/id1631703551?uo=4)— соберет плейлист в Apple и Spotify по тексту или картинке.
+
+1. Stability AI (https://stability.ai/) — создавать и редактировать пикчи прямо в Photoshop с нейронкой Stable Diffusion;
+2. Magic Studio (https://magicstudio.com/ru) — удаляет любые объекты с фоток;
+3. Kickresume AI (https://www.kickresume.com/en/ai-resume-writer/) — напишет за вас резюме;
+4. Timely AI (https://timelyapp.com/) — тайм-трекер c ИИ, чтобы никогда ничего не пропускать;
+5. DeepBrain AI (https://www.deepbrain.io/) — видео со сложными эффектами из текста за пару минут;
